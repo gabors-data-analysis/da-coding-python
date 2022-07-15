@@ -23,6 +23,7 @@ Data sctructures
 - lists
 - tuples
 - dictionaries  
+
 Importing ad using modules  
 Working with modules  
 Exception Handling  
@@ -33,6 +34,7 @@ Basic data manipulations using Pandas. Something like <a href="https://github.co
 Intro to plotting   
 - Pandas plot method
 - Plotly  
+
 Exploratory Data Analysis in Pandas  
 Measures of dependence (numerical and categorical variables)  
 Conditional probabilites  
