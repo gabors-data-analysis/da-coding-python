@@ -51,7 +51,7 @@ Lambda functions
 ### Lecture 9
 Exception Handling  
 
-### Lecture 10 - might divide later
+### Lecture 10
 Measures of dependence (numerical and categorical variables)
 Conditional probabilites
 Introduction to statsmodels
@@ -76,7 +76,7 @@ Datetime
 Modelling time series data 
 
 
-Questions:
+### Questions:
 - Classes & object-oriented programming
 - Numpy
 - Spatial viz
