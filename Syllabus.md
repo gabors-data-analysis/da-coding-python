@@ -1,56 +1,82 @@
-### Class 0
+### Lecture 0
 
 Setting up the environment  
 Basic terminology  
 Using Jupyter notebook  
-Using Spyder  
+Using Spyder  (VScode ?)
 Running script from Spyder IDE and from the CLI: PowerShell on Windows or Terminal on Mac  
 Version control and git  
 
-### Class 1 - ?
+### Lecture 1
 
 Coding principles and best practices  
 Fundamental variables  
 Basic data types: numbers, strings and booleans  
-Assignment and operators  
-Working with numerical and string variables  
-I/O  
-Conditional statemens and control flows  
-Writing functions - parameters, return values/objects, args & kwargs  
-Lambda functions  
-Datetime  
+Assignment and operators 
+Working with numerical and string variables
+
+### Lecture 2  - might divide later
+
 Data sctructures  
 - lists
 - tuples
-- dictionaries  
+- dictionaries 
+Importing and using modules  
+Working with modules
 
-Importing ad using modules  
-Working with modules  
-Exception Handling  
-(Classes & object-oriented programming?)  
-Numpy  
-Pandas: from Series to DataFrames  
+### Lecture 3
+data I/O  
+
+### Lecture 4
+Pandas: from Series to DataFrames 
 Basic data manipulations using Pandas. Something like <a href="https://github.com/peterduronelly/Scientific-Python/blob/master/class9.ipynb"> this</a>  
+
+
+### Lecture 5
 Intro to plotting   
 - Pandas plot method
-- Plotly  
+- Plotnine
 
-Exploratory Data Analysis in Pandas  
-Measures of dependence (numerical and categorical variables)  
-Conditional probabilites  
-Introduction to statsmodels  
-Hypthesis testing  
-Simple linear regression  
-Feature engineering (complicated patterns and messy data)  
+### Lecture 6
+Conditional statements and control flows  
+
+### Lecture 7
+Exploratory Data Analysis in Pandas
+Hypothesis testing
+
+### Lecture 8
+Writing functions - parameters, return values/objects, args & kwargs  
+Lambda functions  
+
+### Lecture 9
+Exception Handling  
+
+### Lecture 10 - might divide later
+Measures of dependence (numerical and categorical variables)
+Conditional probabilites
+Introduction to statsmodels
+
+### Lecture 11
+Feature engineering (complicated patterns and messy data) 
+
+### Lecture 12
+Simple linear regression
+
+### Lecture 13
 Advanced linear regression  
 Multiple linear regression  
+
+### Lecture 14
+Binary models
+
+### Lecture 15
+Datetime
+
+### Lecture 16
 Modelling time series data 
 
 
-
-
-
-
-
-
-
+Questions:
+- Classes & object-oriented programming
+- Numpy
+- Spatial viz
