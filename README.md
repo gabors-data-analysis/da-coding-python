@@ -48,7 +48,12 @@ The material's main focus is the manipulation and analysis of tabular data. Pand
 
 | Lecture | Learning outcomes | Case study | Dataset |
 | ------- | ----------------- | ---------- | ------- |
-| [ecture00-intro](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture00-intro) | basic terminology; Jupyter notebooks ; how to setup the environment | - | - |
+| [lecture00-intro](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture00-intro) | basic terminology; Jupyter notebooks ; how to setup the environment | - | - |
+| [lecture01-coding-basics](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture01-coding-basics) | coding basics; basic variable types | - | - |
+| [lecture02-basic-structures](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture02-basic-structures) | basic data structures: lists, tuples, sets, distionaries; working with modules | - | - |
+| [lecture03-data-IO](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture03-data-IO) | how to read and write files; navigating the file system | - | - |
+| [lecture04-pandas-basics](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture04-pandas-basics) | pandas dataframe basics; how manipulate tabular data with Pandas: conversion, filtering, replacing values, adding new variables, sorting; using pipes | [Ch03: Finding a good deal among hotels: data exploration](https://gabors-data-analysis.com/casestudies/#ch03a-finding-a-good-deal-among-hotels-data-exploration) | [hotels-vienna](https://gabors-data-analysis.com/datasets/#hotels-vienna) | 
+| [lecture05-graphs-basics](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture05-graphs-basics) | matplotlib basics; deep-dive into plotline | - | [stocks-sp500](https://gabors-data-analysis.com/datasets/#stocks-sp500); [hotels-vienna](https://gabors-data-analysis.com/datasets/#hotels-vienna) |
 
 
 
