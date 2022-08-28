@@ -35,7 +35,21 @@ Lectures 10 to 16 cover everything you need to know about linear regression in P
 
 ## Philosopy and how to use
 
-We tried to put together a benchmark course to supplement the Data Analysis texbook and to help anyone, students and intructors alike, follow the book's material. 
+We tried to put together a benchmark course to supplement the Data Analysis texbook and to help anyone, students and intructors alike, follow the book's material. Anyone is free to use the notebooks in their current or in any modified form, with proper reference to the original material. 
+
+While we try to teach the basics on Python, this is not a classical coding course material. The notebooks take the reader through the data analysis workflow of the first 12 chapters of the textbook providing assitance in Python along the way. It is possible to learn the very basics of Python using these notebooks, but simply completing the exercises won't make anyone a programmer. Using the codebase _and_ the textbook together however, does help in understanding statistical and data analytics concepts and see the theory in practice. 
+
+The lectures are pre-written, which an educated reader can follow and understand. Nevertheless, instructors may want to modify and tailor-make the codes according to their own teaching habits and philosophy. Homeworks are not part of the codebase, giving  instructors another task in the practical coding sessions of their data analytics courses. 
+
+The material's main focus is the manipulation and analysis of tabular data. Pandas dataframes provide most of the tools for these manipulation exercises, and we use the `statsmodels` package for running linear regressions. We added a basic a matplotlib intro but we use `plotnine`, the Python-implementation of _ggplot_, for visualization and graphical representation. 
+
+
+## Course content
+
+| Lecture | Learning outcomes | Case study | Dataset |
+| ------- | ----------------- | ---------- | ------- |
+| [ecture00-intro](https://github.com/gabors-data-analysis/da-coding-python/tree/develop/lecture00-intro) | basic terminology; Jupyter notebooks ; how to setup the environment | - | - |
+
 
 
 ## Note
