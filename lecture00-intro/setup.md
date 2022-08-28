@@ -38,6 +38,7 @@
 
     The jupyter environment should be opened on your default browser. You are good to go!
 
+**NOTE:** For Windows users, the above code chunks might result in an error, because the `pipenv` terminal shortcut sometimes does not install properly. In this case, run ```python3 -m pipenv sync``` and ```python3 -m pipenv run jupyter notebook```.
 
 
 ## VS Code: An IDE For Python Scripts
