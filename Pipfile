@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+plotnine = "*"
+matplotlib = "*"
+jupyter = "*"
+scikit-learn = "*"
+scikit-misc = "*"
+wbdata = "*"
+pycountry-convert = "*"
+stargazer = "*"
+statsmodels = "*"
+black = "*"
+jupyter-contrib-nbextensions = "*"
+pyzmq = "==19.0.2"
+numpy = "*"
+patchworklib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
