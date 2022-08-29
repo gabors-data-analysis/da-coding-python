@@ -18,6 +18,7 @@ black = "*"
 jupyter-contrib-nbextensions = "*"
 pyzmq = "==19.0.2"
 numpy = "*"
+patchworklib = "*"
 
 [dev-packages]
 
