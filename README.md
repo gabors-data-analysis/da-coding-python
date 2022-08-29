@@ -1,8 +1,9 @@
-# Coding for Data Analysis with Python   
-by [Peter Duronelly](https://github.com/peterduronelly) and [Ádám Vig](https://github.com/adamvig96) 
+# Coding for Data Analysis with Python
 
-This coding course is the Python alternative to Ágoston Reguly's corresponding [R-course](https://github.com/gabors-data-analysis/da-coding-rstats) to supplement to ***Data Analysis for Business, Economics, and Policy** 
-by Gábor Békés (CEU) and Gábor Kézdi (U. Michigan),  Cambridge University Press, 2021*
+Introduction to Data Analysis with Python - lecture materials by [Peter Duronelly](https://github.com/peterduronelly) and [Ádám Vig](https://github.com/adamvig96)  with [Ágoston Reguly](https://regulyagoston.github.io/) (Georgia Tech) and [Gábor Békés](https://sites.google.com/site/bekesg/) ([CEU](https://people.ceu.edu/gabor_bekes), [KRTK](https://kti.krtk.hu/en/kutatok/gabor-bekes/5896/), [CEPR](https://voxeu.org/users/gaborbekes0)) 
+
+This course material is a supplement to ***Data Analysis for Business, Economics, and Policy** 
+by Gábor Békés (CEU) and Gábor Kézdi (U. Michigan),  Cambridge University Press, 2021*.
 
 *Textbook* information: see the textbook's website [gabors-data-analysis.com](https://gabors-data-analysis.com/) or visit [Cambridge University Press](https://www.cambridge.org/highereducation/books/data-analysis-for-business-economics-and-policy/D67A1B0B56176D6D6A92E27F3F82AA20)    
 To get a copy: [Inspection copy for instructors](https://www.cambridge.org/highereducation/books/data-analysis-for-business-economics-and-policy/D67A1B0B56176D6D6A92E27F3F82AA20/examination-copy/personal-details) or [Order online](https://gabors-data-analysis.com/order)   
@@ -15,7 +16,7 @@ We'd like to say thanks for [Ágoston Reguly](https://github.com/regulyagoston) 
 
 ## Status
 
-This is version 0.1, as of August 21, 2022.
+This is version 0.1, as of August 29, 2022.
 
 Comments are really welcome in email or as a GitHub issue. 
 
