@@ -19,6 +19,8 @@ jupyter-contrib-nbextensions = "*"
 pyzmq = "==19.0.2"
 numpy = "*"
 patchworklib = "*"
+fredapi = "*"
+arch = "*"
 
 [dev-packages]
 
