@@ -54,4 +54,4 @@ Estimate the *beta* coefficient between quarterly SP500 log returns on Microsoft
 ## Further material
 
   - More materials on the case study can be found in Gabor's *da_case_studies* repository: [ch12-stock-returns-risk](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch12-stock-returns-risk/ch12-stock-returns-risk.R)
-
+  - Arthur Turrell's Coding for Economics classes: [Time Series](https://aeturrell.github.io/coding-for-economists/time-series.html)

@@ -62,3 +62,4 @@ Use the [hotels-vienna dataset](https://gabors-data-analysis.com/datasets/#hotel
 ## Further material
 
   - More materials on the case study can be found in Gabor's *da_case_studies* repository: [ch08-life-expectancy-income](https://github.com/gabors-data-analysis/da_case_studies/tree/master/ch08-life-expectancy-income)
+  - Arthur Turrell's Coding for Economics classes: [Regression](https://aeturrell.github.io/coding-for-economists/econmt-regression.html)

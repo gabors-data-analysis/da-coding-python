@@ -61,3 +61,4 @@ Use the same [hotel-europe data from OSF](https://osf.io/r6uqb/), but now
 ## Further material
 
   - More materials on the case study can be found in Gabor's [da_case_studies repository](https://github.com/gabors-data-analysis/da_case_studies): [ch02-hotels-data-prep](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch02-hotels-data-prep/ch02-hotels-data-prep.R)
+  - Arthur Turrell's Coding for Economics classes: [Data Analysis Quickstart](https://aeturrell.github.io/coding-for-economists/data-analysis-quickstart.html), [Working with Data](https://aeturrell.github.io/coding-for-economists/data-intro.html), [Data Transformation](https://aeturrell.github.io/coding-for-economists/data-transformation.html)

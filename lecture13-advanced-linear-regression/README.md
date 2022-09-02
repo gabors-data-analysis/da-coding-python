@@ -72,3 +72,4 @@ Choose a different city from Vienna and make sure you have **at least 100 observ
 ## Further material
 
   - More materials on the case study can be found in Gabor's *da_case_studies* repository: [ch10-hotels-multiple-reg](https://github.com/gabors-data-analysis/da_case_studies/tree/master/ch10-hotels-multiple-reg) on multiple regressions and [ch09-hotels-europe-stability](https://github.com/gabors-data-analysis/da_case_studies/tree/master/ch09-hotels-europe-stability) discusses external validity.
+  - Arthur Turrell's Coding for Economics classes: [Regression](https://aeturrell.github.io/coding-for-economists/econmt-regression.html)

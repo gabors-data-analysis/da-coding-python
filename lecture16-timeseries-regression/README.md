@@ -47,4 +47,4 @@ You will use the [case-shiller-la](https://gabors-data-analysis.com/datasets/#ca
 ## Further material
 
   - More materials on the case study can be found in Gabor's *da_case_studies* repository: [ch12-electricity-temperature](https://github.com/gabors-data-analysis/da_case_studies/tree/master/ch12-electricity-temperature)
-
+  - Arthur Turrell's Coding for Economics classes: [Time Series](https://aeturrell.github.io/coding-for-economists/time-series.html), [Forecasting](https://aeturrell.github.io/coding-for-economists/time-fcasts-env.html)

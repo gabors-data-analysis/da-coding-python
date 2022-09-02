@@ -53,3 +53,4 @@ Use the binscatter model with 7 bins and save the predicted values and errors (t
 ## Further material
 
   - More materials on the case study can be found in Gabor's *da_case_studies* repository: [ch07-hotels-simple-reg](https://github.com/gabors-data-analysis/da_case_studies/tree/master/ch07-hotels-simple-reg)
+  - Arthur Turrell's Coding for Economics classes: [Regression](https://aeturrell.github.io/coding-for-economists/econmt-regression.html)

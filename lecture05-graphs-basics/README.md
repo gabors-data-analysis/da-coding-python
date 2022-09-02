@@ -59,5 +59,6 @@ Showing [`plotnine_intro.ipynb`](https://github.com/gabors-data-analysis/da-codi
 ## Further material
 
   - [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.comet.ml/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39) in general focuses on visualization with matplotlib.
+  - Arthur Turrell's Coding for Economics classes: [Intro to Data Visualisation](https://aeturrell.github.io/coding-for-economists/vis-intro.html), [Common Plots](https://aeturrell.github.io/coding-for-economists/vis-common-plots.html)
   - [Official webpage of `plotnine`](https://plotnine.readthedocs.io/en/stable/)
   - [Official webpage of `matplotlib`](https://matplotlib.org/)
