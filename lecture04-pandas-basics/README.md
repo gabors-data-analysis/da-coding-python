@@ -6,7 +6,7 @@ Before analyzing the data, data analysts spend a lot of time organizing, managin
 
 Here we introduce students to a (relatively) easy way of carrying out this task and use the case study of [finding a good deal among hotels]((https://gabors-data-analysis.com/casestudies/#ch02a-finding-a-good-deal-among-hotels-data-preparation)). The initial data preparation, continues to work towards finding hotels that are underpriced relative to their location and quality. In this lecture, we illustrate how to find problems with observations and variables and how to solve those problems.
 
-## This Lecture
+## This lecture
 
 
 This lecture introduces `pandas` as the data type of variable Python. It shows multiple columns and row manipulations with one DataFrame, also introduces students how to manipulate raw data in various ways with `pandas`.
