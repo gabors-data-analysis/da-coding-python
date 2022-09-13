@@ -32,6 +32,7 @@ Case studies used/related in/to this lecture:
 ## Learning outcomes
 After completing [`plotnine_intro.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture05-graphs-basics/plotnine_intro.ipynb) students should be able to:
 
+  - create `ggplot` objects with different types of figures using `geoms` 
   - manipulating axis with `scale_*_continuous` and `scale_*_discrete`, where `*` stands for `y` or `x`
     - set limits
     - set break points
@@ -46,6 +47,17 @@ After completing [`plotnine_intro.ipynb`](https://github.com/gabors-data-analysi
   - use `color[x]` color values from a pre-defined list
 
 After completing [`matplotlib_intro.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture05-graphs-basics/matplotlib_intro.ipynb) students should be able to:
+
+- the two key object in a `matplotlib` plot
+  - `Figure` 
+  - `Axes`
+- set
+  - y-axis limits
+  - legends
+  - log scale
+- using a second axis
+- spacing between the bars and horizontal grids
+- chart within a chart
 
 ## Datasets used
 * [Hotel Europe](https://gabors-data-analysis.com/datasets/#hotels-europe)

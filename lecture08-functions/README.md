@@ -18,7 +18,11 @@ This lecture introduces functions, how they are structured and how to write them
 ## Learning outcomes
 After successfully live-coding the material (see: [`functions.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture08-functions/functions.ipynb)), students will know on
 
-
+- how to create user definded functions
+- what is the structure of a function
+- the use of `docstring`s to document functions
+- the use of the `help` function to retreive function descriptions
+- the use of `lambda` function
 
 ## Lecture Time
 

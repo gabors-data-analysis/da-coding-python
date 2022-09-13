@@ -6,12 +6,17 @@ Deciding what to do on a case by case is widely used in decision making and also
 
 ## This lecture
 
+This lecture introduces students to conditional programming with `if-else` statements. It covers the essentials control flows as `for` and `while` loop and list comprehension.
+
 
 ## Learning outcomes
+After successfully live-coding the material (see: [`conditionals_and_control_flows.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture06-conditionals/conditionals_and_control_flows.ipynb)), students will have knowledge on
 
-
-
-## Datasets used
+- how a conditional statement works
+- what are the crucial elements of an `if-else` statement
+- what is a `for` loop
+- what is a `while` loop
+- wow to create a list comprehension
 
 
 ## Lecture Time
