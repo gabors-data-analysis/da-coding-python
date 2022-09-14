@@ -15,15 +15,23 @@ This lecture is based on [Chapter 02, A: Finding a good deal among hotels: data 
 
 
 ## Learning outcomes
+After successfully completing [`pandas_basics.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/pandas_basics.ipynb), students should be able to:
+
+  - create pandas `Series`
+  - create pandas `DataFrames` from `Series`, dictionaries, lists
+  - access data in a `DataFrame` with `loc` and `iloc`
+  - reset index
+  - rename columns
+  - access metadata of `DataFrame`s
+
 After successfully completing [`pandas_data_munging.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/pandas_data_munging.ipynb), students should be able to:
 
-  - Add variables
-  - Separate a character variable into two (or more) variables
-  - Convert different type of variables to specific types:
+  - add variables
+  - separate a character variable into two (or more) variables
+  - convert different type of variables to specific types:
     - character to numeric
-  - String manipulations in pandas Series
-  - Rename variables
-  - Filter out different observations
+  - string manipulations in pandas Series
+  - filter out different observations
     - select observations with specific values
     - tabulate different values of a variable
     - filter out missing values
