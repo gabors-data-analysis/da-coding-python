@@ -15,7 +15,7 @@ This lecture is based on [Chapter 02, A: Finding a good deal among hotels: data 
 
 
 ## Learning outcomes
-After successfully completing [`pandas_basics.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/pandas_basics.ipynb), students should be able to:
+After successfully completing [`01_pandas_basics.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/01_pandas_basics.ipynb), students should be able to:
 
   - create pandas `Series`
   - create pandas `DataFrames` from `Series`, dictionaries, lists
@@ -24,7 +24,7 @@ After successfully completing [`pandas_basics.ipynb`](https://github.com/gabors-
   - rename columns
   - access metadata of `DataFrame`s
 
-After successfully completing [`pandas_data_munging.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/pandas_data_munging.ipynb), students should be able to:
+After successfully completing [`02_pandas_data_munging.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture04-pandas-basics/02_pandas_data_munging.ipynb), students should be able to:
 
   - add variables
   - separate a character variable into two (or more) variables

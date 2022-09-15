@@ -23,7 +23,7 @@ The lecture (partially) uses the following case studies:
 
 
 ## Learning outcomes
-After successfully completing [`feature_engineering-part-I-wms.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture11-feature-engineering/feature_engineering-part-I-wms.ipynb) and [`feature_engineering-part-II-bisnode.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture11-feature-engineering/feature_engineering-part-II-bisnode.ipynb), students should be able:
+After successfully completing [`01_feature_engineering_wms.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture11-feature-engineering/01_feature_engineering_wms.ipynb) and [`02_feature_engineering_bisnode.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture11-feature-engineering/02_feature_engineering_bisnode.ipynb), students should be able:
 
 - How to create a new variable from multiple already existing variables by calculating the mean or the sum
 - Create groups of a categorical variable

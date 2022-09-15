@@ -16,7 +16,7 @@ This lecture introduces basic date and time-variable manipulations. The first pa
 This lecture utilizes the case study of [Chapter 12, A: Returns on a company stock and market returns](https://gabors-data-analysis.com/casestudies/#ch12a-returns-on-a-company-stock-and-market-returns) as homework, and uses [`stocks-sp500`](https://gabors-data-analysis.com/datasets/#stocks-sp500) dataset.
 
 ## Learning outcomes
-After successfully completing [`datetime_part_I_basics.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture15-datetime/datetime_part_I_basics.ipynb) and [`datetime_part_II_manipulations.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture15-datetime/datetime_part_II_manipulations.ipynb), students should be:
+After successfully completing [`01_datetime_basics.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture15-datetime/01_datetime_basics.ipynb) and [`02_datetime_manipulations.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture15-datetime/2_datetime_manipulations.ipynb), students should be:
 
   - Familiar with the `datetime` package, especially with
     - creating specific time variables, converting other types of variables into a date or datetime object

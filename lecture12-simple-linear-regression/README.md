@@ -40,9 +40,9 @@ After successfully completing codes in *raw_codes* student should have:
 
 Ideal overall time: approx 60 minutes.
 
-Solving [`life_exp_get_data.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture12-simple-linear-regression/life_exp_get_data.ipynb)) takes around *5-10 minutes* as it builds on [lecture03-data-IO](https://github.com/gabors-data-analysis/da-coding-python/tree/main/lecture03-data-IO). In principle it should be a quick reminder and practice.
+Solving [`00_life_exp_get_data.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture12-simple-linear-regression/00_life_exp_get_data.ipynb)) takes around *5-10 minutes* as it builds on [lecture03-data-IO](https://github.com/gabors-data-analysis/da-coding-python/tree/main/lecture03-data-IO). In principle it should be a quick reminder and practice.
 
-Solving [`life_exp_analysis.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture12-simple-linear-regression/life_exp_analysis.ipynb) covers the main material, and takes *40-60 minutes* depending on the student's background. This lecture is mainly theory-based (practice via case study) and includes easy, but many new commands in a repetitive way. 
+Solving [`02_life_exp_analysis.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture12-simple-linear-regression/02_life_exp_analysis.ipynb) covers the main material, and takes *40-60 minutes* depending on the student's background. This lecture is mainly theory-based (practice via case study) and includes easy, but many new commands in a repetitive way. 
 
 ## Homework
 
