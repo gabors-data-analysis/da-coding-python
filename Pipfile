@@ -21,6 +21,7 @@ numpy = "*"
 patchworklib = "*"
 fredapi = "*"
 arch = "*"
+geopandas = "*"
 
 [dev-packages]
 
