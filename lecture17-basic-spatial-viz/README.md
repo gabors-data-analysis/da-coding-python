@@ -1,4 +1,4 @@
-# Lecture 20: Spatial data visualization
+# Lecture 17: Spatial data visualization
 
 ## Motivation
 
@@ -10,7 +10,7 @@ Visualizing data spatially can allow us to make insights as to what is going on 
 4. Contextualizing your data in the real world
 
 
-There is lots of room for creativity when making map dashboards because there are numerous ways to convey information with this kind of visualization. In R, we map geographical regions colored, shaded, or graded according to some variable. They are visually striking, especially when the spatial units of the map are familiar entities.
+There is lots of room for creativity when making map dashboards because there are numerous ways to convey information with this kind of visualization. We map geographical regions colored, shaded, or graded according to some variable. They are visually striking, especially when the spatial units of the map are familiar entities.
 
 | Life expectancy map    | Hotel prices in cities  |
 |-------------------------|-------------------------|
@@ -37,13 +37,13 @@ After successfully completing [`01_spatial_datavisualisation.ipynb`](https://git
 
 After successfully completing [`02_spatial_datavisualisation.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture17-basic-spatial-viz/02_spatial_datavisualisation.ipynb) students should be able:
 
-    - Use `geopandas` package to import 'shp' files and other needed auxiliary files as 'shx' and 'dbf'
-    - `geom_path` to color the edges of the map
-    - Map manipulations to show only inner-London boroughs
-    - Add (borough or district) names to a map with `geom_text`
-    - Control for limits of legend colors with `scale_fill_gradientn()`
-    - Use nice color maps with unique palettes
-    - Task for Vienna: replicate the same as for London
+  - Use `geopandas` package to import 'shp' files and other needed auxiliary files as 'shx' and 'dbf'
+  - `geom_path` to color the edges of the map
+  - Map manipulations to show only inner-London boroughs
+  - Add (borough or district) names to a map with `geom_text`
+  - Control for limits of legend colors with `scale_fill_gradientn()`
+  - Use nice color maps with unique palettes
+  - Task for Vienna: replicate the same as for London
 
 ## Lecture Time
 
