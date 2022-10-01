@@ -26,6 +26,7 @@ pandas-market-calendars = "*"
 skimpy = "*"
 prophet = "==1.0"
 pystan = "==2.19.1.1"
+pmdarima = "*"
 
 [dev-packages]
 

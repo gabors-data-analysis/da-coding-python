@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1849c7da343ea6bcf1bcadbd8e533832e2f5cd4ecf7582cd04a2087dd202a538"
+            "sha256": "cf0183f44b412959140556122f7c388e7f4a3b5e20ead4960450d06f24f04e1b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1451,6 +1451,32 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==1.0.0"
+        },
+        "pmdarima": {
+            "hashes": [
+                "sha256:120bb1c16719a039fdbc50ef00bc979760e7087835a5f9f15b8f11885560a72c",
+                "sha256:14706be2023a1e03f971c03886bc88bd934b0c862bf7814757b23b4017c28efa",
+                "sha256:1adc8900953172d9fb95a94fcf778c6779f5bf9241859a003ac88ca9801a121d",
+                "sha256:3c8ad41798448fe0d74896d7c42d2bc93d715efae4b61b9346e1739384438ca8",
+                "sha256:4395839cf4bb6e20f3fbce75b60adb20b0d4a8e9a53bf86a45a671f71dd83d24",
+                "sha256:5525006b8bd60666dc4bdadc404b93184b75bbf26e61f18498684ff7b319961f",
+                "sha256:6ff57e0680b4585c9523684d824b0580c68a8dbef8e2b6a6f1da2f811eee443d",
+                "sha256:86f99c953fa271c1bc496e36e6dabdbe39c9762c63faad766f3fd3397f29720b",
+                "sha256:9220dc7338e3a617d0f3aaf29cbcf9ac646b3c8a5ae585f9a366f9723b8dfc78",
+                "sha256:9596875c436f2485c2fc9310e6d4d99e3c6486c675325415020479a54a88db9f",
+                "sha256:a816b288a282b9130ae59e1ec73fff073a34c21b64b78e889049535b2448fe7c",
+                "sha256:aa3d84edde7783c16206f3d2b605d32f56a89001f7c3e6752f9a26f14dbf13e5",
+                "sha256:b3d4806f277644e72fd31981bdd71580ee9cf29aab2db7b3a754dbac7759bb15",
+                "sha256:c0fb3abec29523b10c567d14ec3f858e46d1759edc5c1db53d72de9aeb5ac808",
+                "sha256:d2f9ce6d72d9d7e9d81f8e50f97e944babff28226473fb03a6c89464a64467e5",
+                "sha256:e7c3ba4aacd3bc3c5c960d4d1543316a2298e0a7e5037389a65c9f8c7e59e03c",
+                "sha256:eb2d5d179bbc275855e1ef586300bc697065ac743318920e4b5f574d572604d0",
+                "sha256:f336f80eb4bd009c23e2abdb83d603d45a7e3c6a3b6206608e487efc5ddf74f2",
+                "sha256:f599ce30f03d71c400add1f7535724c15fde3a46d8ac512c13cff3500dc5a524",
+                "sha256:fae463b03b850fdfca419a67c63fd6196ba99be383c23d6593f6ad67196407c5"
+            ],
+            "index": "pypi",
+            "version": "==2.0.1"
         },
         "pprintpp": {
             "hashes": [
