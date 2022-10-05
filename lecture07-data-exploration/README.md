@@ -29,6 +29,7 @@ This lecture uses [Chapter 06, A](https://gabors-data-analysis.com/casestudies/#
 After completing the codes in [`data_exploration.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture07-data-exploration/data_exploration.ipynb), students should be able to:
 
   - `describe` for a quick summary of all variables in the dataframe
+  - `skim` from the `skimpy` package for a nicer looking descriptive table
   - specific variables with their descriptive statistics with `filter` such as
     - mean, median, standard deviation, minimum, maximum, percentiles, number of observations, number of missing observations
     - user-created functions added to `agg` such as range or mode
