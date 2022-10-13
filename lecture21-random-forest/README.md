@@ -49,5 +49,5 @@ Ideal overall time: **100 mins**.
 
 ## Further material
 
-  - This lecture is a modified version of [ch16-airbnb-random-forest.ipynb](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch16-airbnb-random-forest/ch16-airbnb-random-forest.ipynb) from [Gabor's case study repository](https://github.com/gabors-data-analysis/da_case_studies).
+  - This lecture is a modified version of [ch16-airbnb-random-forest.ipynb](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch16-airbnb-random-forest/Ch16-airbnb-random-forest.ipynb) from [Gabor's case study repository](https://github.com/gabors-data-analysis/da_case_studies).
 
