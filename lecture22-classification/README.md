@@ -19,7 +19,7 @@ Case study:
 
 Lecturer/students should be aware that there is a separate file at the official case studies repository: [`ch17-firm-exit-data-prep.ipynb`](https://github.com/gabors-data-analysis/da_case_studies/blob/master/ch17-predicting-firm-exit/ch17-firm-exit-data-prep.ipynb) for this seminar, overviewing only the data cleaning and feature engineering process for binary outcomes. This is extremely important and powerful to understand how to prepare the data for these methods, as without it data analysts do garbage-in garbage-out analysis... Usually, due to time constraints, this part is not covered in the seminar but asked students to cover it before the seminar.
 
-After successfully completing [`firm_exit_classification.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture22-classification/codes/firm_exit_classification.ipynb), students should be able:
+After successfully completing [`firm_exit_classification.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture22-classification/firm_exit_classification.ipynb), students should be able:
 
   - What is winsorizing and how it helps
   - Basic linear models for predicting probabilities

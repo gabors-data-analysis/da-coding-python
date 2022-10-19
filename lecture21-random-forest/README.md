@@ -21,7 +21,7 @@ Case study:
 
 Lecturer/students should be aware that there is a separate file: [`airbnb_prepare.R`](https://github.com/gabors-data-analysis/da-coding-rstats/blob/main/lecture24-random-forest/codes/airbnb_prepare.R) for this seminar, overviewing only the data cleaning and feature engineering process. This is extremely important and powerful to understand how to prepare the data for these methods, as without it data analysts do garbage-in garbage-out analysis... Usually, due to time constraints, this part is not covered in the seminar but asked students to cover it before the seminar.
 
-After successfully completing [`randomforest_airbnb.R`](https://github.com/gabors-data-analysis/da-coding-rstats/blob/main/lecture24-random-forest/codes/randomforest_airbnb.R), students should be able:
+After successfully completing [`02_random_forest_airbnb.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture21-random-forest/02_random_forest_airbnb.ipynb), students should be able:
 
   - Estimate random forest models via `sklearn`
     - unsderstand `max_features` and `min_samples_split` parameters

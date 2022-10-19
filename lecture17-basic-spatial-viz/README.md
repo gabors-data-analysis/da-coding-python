@@ -45,6 +45,11 @@ After successfully completing [`02_spatial_datavisualisation.ipynb`](https://git
   - Use nice color maps with unique palettes
   - Task for Vienna: replicate the same as for London
 
+After successfully completing [`02_spatial_datavisualisation_plotly.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture17-basic-spatial-viz/02_spatial_datavisualisation_plotly.ipynb) students should be able:
+
+  - Use`plotly`'s 'choropleth_mapbox' function to create interactive maps. 
+
+
 ## Lecture Time
 
 Ideal overall time: **40-60 mins**.

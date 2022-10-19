@@ -15,7 +15,7 @@ Case study:
   - [Chapter 14, B: Predicting AirBnB apartment prices: selecting a regression model](https://gabors-data-analysis.com/casestudies/#ch14b-predicting-airbnb-apartment-prices-selecting-a-regression-model)
 
 ## Learning outcomes
-After successfully completing [`lasso_aribnb.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture19-lasso/codes/lasso_aribnb.ipynb), students should be able:
+After successfully completing [`02_lasso_airbnb_prediction.ipynb`](https://github.com/gabors-data-analysis/da-coding-python/blob/main/lecture19-lasso/02_lasso_airbnb_prediction.ipynb), students should be able:
 
   - Data cleaning and refactoring to prepare for LASSO type modelling
   - Basic feature engineering for LASSO
